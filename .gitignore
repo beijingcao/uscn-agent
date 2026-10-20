@@ -1,0 +1,13 @@
+# Distribution documents only; application assets belong in GitHub Releases.
+dist/
+assets/
+*.zip
+*.dmg
+*.pkg
+*.app/
+.env*
+*.pem
+*.key
+*credentials*
+*auth.json
+.DS_Store
